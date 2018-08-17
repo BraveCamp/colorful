@@ -35,7 +35,7 @@ img{max-width:100%;}
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fd5bb1+0,2989d8+100,207cca+100,7db9e8+100 */
 	background: #FF101F; /* Old browsers */
 	background: -moz-linear-gradient(top,  #FF101F 0%, #FF101F 100%, #FF101F 100%, #FF101F s100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top,  #fd5bb1 0%,#2989d8 100%,#207cca 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+	background: -webkit-linear-gradient(top,  #5Dfd67 0%,#2989d8 100%,#207cca 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to bottom,  #FF101F 0%,#FF810C 100%,#2 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fd5bb1', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
 	background-size:cover;
